@@ -19,7 +19,6 @@ The most epic theme meets Visual Studio Code. You can help by reporting issues [
 - [Override theme colors](#override-theme-colors)
   - [Color Scheme override](#color-scheme-override)
 - [Recommended settings for a better experience](#recommended-settings-for-a-better-experience)
-- [Official Portings](#official-portings)
 - [Other resources](#other-resources)
 
 ## Getting started
