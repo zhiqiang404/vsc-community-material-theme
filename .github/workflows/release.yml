@@ -3,7 +3,7 @@ on:
     tags: release
     branches:
       - master
-name: Deploy Extension
+name: Release Extension
 jobs:
   deploy:
     runs-on: ubuntu-latest
